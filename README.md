@@ -37,4 +37,3 @@ way through the implementation by providing walkthrough videos. Therefore, I wou
 Jonas for his tremendous commitment to his students and for giving us this great project.
 
 Link to Jonas Website: https://codingheroes.io/
-$
