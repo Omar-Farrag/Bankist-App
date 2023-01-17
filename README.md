@@ -7,13 +7,13 @@ interface
 
 ## How to use the App
 
-By default, there are only two accounts: Jonas Schmedtmann and Jessica Davis. To login, the user enters the username and pin code
+By default, there are only two accounts: Jonas Schmedtmann and Jessica Davis. To log in, the user enters the username and pin code
 
 -    username1: js
      pin1: 1111
 
 -    username2: jd
-     pin2:2222
+     pin2: 2222
 
 The user can deposit, withdraw, and transfer money to other accounts. There is also the option to permanently delete
 an account.
