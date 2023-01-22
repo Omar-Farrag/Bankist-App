@@ -2,8 +2,7 @@
 
 ## Description
 
-A banking application that can help a user keep track of deposits and withdrawals using an appealing, easy-to-use
-interface
+A banking application that can help a user make deposits and withdrawals to his/her account using an appealing, easy-to-use interface
 
 ## How to use the App
 
